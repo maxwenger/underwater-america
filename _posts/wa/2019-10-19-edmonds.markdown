@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Edmonds Underwater Park
-date:   2020-03-20
+date:   2019-10-19
 background:  '/img/states/wa/edmonds/banner.jpg'
 author: Tro
 ---
