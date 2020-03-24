@@ -4,3 +4,5 @@ email: max@maxwenger.com
 
 title: Underwater America
 description: Dive all 50 states!
+
+permalink: /:categories/:title:output_ext
